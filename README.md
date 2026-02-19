@@ -1,3 +1,3 @@
-# prompt-engineering-portfolio
-AI-assisted workflow for prioritizing executive messages across email and social platforms and converting them into calendar-ready actions.
 AI-assisted executive message management system README
+executive_message_prioritization_prompt.md
+Add structured executive message prioritization prompt
